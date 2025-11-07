@@ -27,8 +27,11 @@ The project demonstrates how to use a variational parameter within a trial wave 
 ## Core Objectives
 
 1.  **Implement VMC:** Develop a robust Variational Monte Carlo simulation using the Metropolis algorithm.
+
 2.  **Optimize Trial Function:** Employ a **Golden Section Search** to efficiently minimize the system's energy variance by finding the optimal variational parameter ($\alpha$).
+
 3.  **Verify One-Electron System:** Accurately compute the ground state energy of a single electron in a 1D harmonic oscillator for validation against known analytical solutions.
+
 4.  **Analyze Two-Electron Correlation:** Apply the VMC method to a two-electron system with varying Coulomb repulsion strength ($\lambda$) to quantify the effects of electron-electron interaction.
 
 ---
