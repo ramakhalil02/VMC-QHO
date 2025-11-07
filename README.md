@@ -23,7 +23,6 @@ This work focuses on using the **Variational Monte Carlo (VMC)** method coupled 
 
 The project demonstrates how to use a variational parameter within a trial wave function (incorporating a Jastrow factor) to accurately model and capture the complex **electron-electron correlation effects** in the system.
 
----
 
 ## Core Objectives
 
